@@ -1,0 +1,15 @@
+{
+    "name": "Files Information",
+    "description": "Information sur les fichiers présents dans votre Nextcloud",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Baptiste Bardet"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
